@@ -4,6 +4,7 @@ To create an Excel dashboard for sales data, I first focused on data cleaning to
 
 Next, I designed a series of charts and graphs, including bar charts, line graphs, and pie charts, to visually represent key metrics such as sales trends, product performance, and regional sales distribution. By combining these visual elements on a single page, I built a comprehensive dashboard that provided clear and actionable insights.
 
+
 ### Salesdata
 ![Screenshot 2024-08-23 153847](https://github.com/user-attachments/assets/fc8c1d22-b108-46d5-8689-82b6da1ae76b)
 
